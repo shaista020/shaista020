@@ -57,6 +57,12 @@ Tools & Skills:  API Integration | Web Scraping | MS Word | Excel | PowerPoint
 ## 📊 GitHub Stats  
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=shaista020&show_icons=true&theme=algolia)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaista020&layout=compact&theme=algolia)
+### 🚀 Frameworks & Libraries
+
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 📈 GitHub Activity Graph  
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaista020&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
