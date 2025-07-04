@@ -44,8 +44,22 @@ I'm an enthusiastic and fresh BSCS graduate with a strong foundation in back-end
 
 ### 🧰 Tech Stack
 
-```txt
+ 
 Languages:       Python | JavaScript | HTML5 | CSS3 | SQL | C++
 Frameworks:      Django | React.js | Bootstrap | DRF
 Databases:       MySQL | SQLite
 Tools & Skills:  API Integration | Web Scraping | MS Word | Excel | PowerPoint
+---
+
+## 🏆 GitHub Trophies  
+[![Trophies](https://github-profile-trophy.vercel.app/?username=shaista020&theme=dracula&no-frame=true&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 GitHub Stats  
+![Your Stats](https://github-readme-stats.vercel.app/api?username=shaista020&show_icons=true&theme=algolia)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaista020&layout=compact&theme=algolia)
+
+## 📈 GitHub Activity Graph  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaista020&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## ✍️ Quote  
+> “Success doesn't come from what you do occasionally, it comes from what you do consistently.”
