@@ -49,5 +49,3 @@ Languages:       Python | JavaScript | HTML5 | CSS3 | SQL | C++
 Frameworks:      Django | React.js | Bootstrap | DRF
 Databases:       MySQL | SQLite
 Tools & Skills:  API Integration | Web Scraping | MS Word | Excel | PowerPoint
-### ✍️ Quote
-"Success doesn't come from what you do occasionally, it comes from what you do consistently."
