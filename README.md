@@ -60,7 +60,7 @@
 ![DRF](https://img.shields.io/badge/-DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+ 
 ---
 
 ## 📈 GitHub Activity Graph  
