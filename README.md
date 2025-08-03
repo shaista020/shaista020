@@ -2,7 +2,7 @@
 <h3 align="center">Python & Django Developer | BSCS Graduate | Passionate about Backend Development & Automation</h3>
 
 ---
-
+  
 ### 🧾 About Me
 
 - 🎓 **BSCS Graduate (2021–2025)** — *University of Jhang*
