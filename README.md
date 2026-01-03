@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python%20and%20Django%20Developer;Backend%20Development%20Specialist;REST%20API%20Engineer;Automation%20Focused%20Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python%20and%20Django%20Developer;Backend%20Development%20Specialist;REST%20API%20Engineer;Automation%20Focused+Developer" />
 </p>
 
 <h3>
@@ -22,6 +22,22 @@ Python & Django Developer | Backend Systems | API Architecture
 </p>
 
 </div>
+
+---
+
+## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
+
+> *“Success doesn't come from what you do occasionally, it comes from what you do consistently.”*
+
+🔭 **Currently Working On:** Python & Django backend systems  
+🎯 **Expertise:** Backend development, REST APIs, authentication & automation  
+👯 **Looking to Collaborate:** Backend-heavy web apps, dashboards & automation systems  
+💬 **Ask Me About:** Django, DRF, REST APIs, backend architecture  
+🎓 **Education:** BSCS (2021–2025) — **University of Jhang**  
+📍 **Location:** Jhang, Pakistan  
+
+💡 **Fun Fact:** I love building automation workflows that make life easier and spend free time exploring new Python libraries and backend optimizations.  
+🌱 **Currently Learning:** Production-ready deployment, advanced API design, and scalable backend systems  
 
 ---
 
@@ -64,7 +80,17 @@ Python & Django Developer | Backend Systems | API Architecture
 
 ---
 
-## 📈 GitHub Contribution & Snake
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shaista020&show_icons=true&theme=react&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaista020&theme=black-ice&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaista020&layout=compact&theme=react&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
 
 [![Shaista's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaista020&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
