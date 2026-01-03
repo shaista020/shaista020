@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python%20and%20Django%20Developer;Backend%20Development%20Specialist;REST%20API%20Engineer;Automation%20Focused%20Developer)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+%26+Django+Developer;Backend+Development+Specialist;REST+API+Engineer;Automation+Focused+Developer" />
 
 </p>
 
@@ -15,7 +15,7 @@
 Python & Django Developer | Backend Systems | API Architecture
 </h3>
 
-<img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639" width="1000"/>
+<img src="https://github.com/shaista020/repo-name/raw/main/assets/cover_image.png" width="1000"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=shaista020&color=00D4FF">
