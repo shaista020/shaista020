@@ -7,7 +7,7 @@
 </h1>
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python%20and%20Django%20Developer;Backend%20Development%20Specialist;REST%20API%20Engineer;Automation%20Focused%20Developer" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python%20and%20Django%20Developer;Backend%20Development%20Specialist;REST%20API%20Engineer;Automation%20Focused%20Developer)
 
 </p>
 
