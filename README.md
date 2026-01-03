@@ -68,7 +68,7 @@ Python & Django Developer | Backend Systems | API Architecture
 
 [![Shaista's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaista020&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Contribution Snake](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake.svg?color_snake=00D4FF&color_dots=0D1117,161B22,1F6FEB,39D353)
+![Contribution Snake](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
