@@ -14,7 +14,7 @@
 Python & Django Developer | Backend Systems | API Architecture
 </h3>
 
-<img src="https://raw.githubusercontent.com/shaista020/shaista020/main/assets/cover_image.jpg" width="1000"/>
+<img src="https://raw.githubusercontent.com/shaista020/shaista020/main/assets/image.png" width="1000"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=shaista020&color=00D4FF">
