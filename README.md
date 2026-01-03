@@ -7,7 +7,8 @@
 </h1>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Python+%26+Django+Developer;Backend+Development+Specialist;REST+API+Engineer;Automation+Focused+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Python%20and%20Django%20Developer;Backend%20Development%20Specialist;REST%20API%20Engineer;Automation%20Focused%20Developer" />
+
 </p>
 
 <h3>
@@ -70,7 +71,7 @@ Python & Django Developer | Backend Systems | API Architecture
 
 ---
 
-## 📊 GitHub Stats (Dark / Light Auto Theme)
+## 📊 GitHub Stats
 
 <p align="center">
 <picture>
@@ -90,7 +91,7 @@ Python & Django Developer | Backend Systems | API Architecture
 
 [![Shaista's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaista020&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Contribution Snake](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake.svg?color_snake=00D4FF&color_dots=0D1117,161B22,1F6FEB,39D353)
 
 ---
 
