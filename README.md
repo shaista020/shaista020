@@ -14,7 +14,7 @@
 Python & Django Developer | Backend Systems | API Architecture
 </h3>
 
-<img src="https://github.com/shaista020/repo-name/raw/main/assets/cover_image.jpg" width="1000"/>
+<img src="https://raw.githubusercontent.com/shaista020/shaista020/main/assets/cover_image.jpg" width="1000"/>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=shaista020&color=00D4FF">
@@ -66,7 +66,7 @@ Python & Django Developer | Backend Systems | API Architecture
 
 ## 📈 GitHub Contribution & Snake
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaista020&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shaista's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shaista020&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Contribution Snake](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake.svg?color_snake=00D4FF&color_dots=0D1117,161B22,1F6FEB,39D353)
 
