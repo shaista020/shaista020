@@ -94,7 +94,6 @@ Python & Django Developer | Backend Systems | API Architecture
 
 ---
 
----
 
 ## 📈 Contribution Activity
 
