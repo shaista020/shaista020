@@ -16,7 +16,7 @@ Python & Django Developer | Backend Systems | API Architecture
 
 <!-- <img src="https://raw.githubusercontent.com/shaista020/shaista020/main/assets/image.png" width="1000" height="500"/> -->
 <!-- <img width="1018" height="264" alt="image" src="https://github.com/user-attachments/assets/4dcc5c5e-957e-49e4-8901-5239d37b44d9" /> -->
-<img width="1017" height="265" alt="image" src="https://github.com/user-attachments/assets/5aea6738-ad53-45f6-ae24-211f5d83a77a" />
+<!-- <img width="1017" height="265" alt="image" src="https://github.com/user-attachments/assets/5aea6738-ad53-45f6-ae24-211f5d83a77a" /> -->
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=shaista020&color=00D4FF">
