@@ -14,10 +14,6 @@
 Python & Django Developer | Backend Systems | API Architecture
 </h3>
 
-<!-- <img src="https://raw.githubusercontent.com/shaista020/shaista020/main/assets/image.png" width="1000" height="500"/> -->
-<!-- <img width="1018" height="264" alt="image" src="https://github.com/user-attachments/assets/4dcc5c5e-957e-49e4-8901-5239d37b44d9" /> -->
-<!-- <img width="1017" height="265" alt="image" src="https://github.com/user-attachments/assets/5aea6738-ad53-45f6-ae24-211f5d83a77a" /> -->
-
 <p>
 <img src="https://komarev.com/ghpvc/?username=shaista020&color=00D4FF">
 <img src="https://img.shields.io/github/followers/shaista020?label=Followers&style=social">
@@ -29,7 +25,7 @@ Python & Django Developer | Backend Systems | API Architecture
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
 
-> *“Success doesn't come from what you do occasionally, it comes from what you do consistently.”*
+> *"Success doesn't come from what you do occasionally, it comes from what you do consistently."*
 
 🔭 **Currently Working On:** Python & Django backend systems  
 🎯 **Expertise:** Backend development, REST APIs, authentication & automation  
@@ -40,6 +36,8 @@ Python & Django Developer | Backend Systems | API Architecture
 
 💡 **Fun Fact:** I love building automation workflows that make life easier and spend free time exploring new Python libraries and backend optimizations.  
 🌱 **Currently Learning:** Production-ready deployment, advanced API design, and scalable backend systems  
+
+<!-- 📌 PROJECTS SECTION: To be added later -->
 
 ---
 
@@ -82,8 +80,6 @@ Python & Django Developer | Backend Systems | API Architecture
 
 ---
 
- 
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaista020&show_icons=true&theme=react&hide_border=true" />
@@ -95,7 +91,6 @@ Python & Django Developer | Backend Systems | API Architecture
 </p>
 
 ---
-
 
 ## 📈 Contribution Activity
 
@@ -118,6 +113,10 @@ Python & Django Developer | Backend Systems | API Architecture
 
 <div align="center">
 
+<a href="https://portfolio-navy-delta-97.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/shaista-tabbasum/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -128,14 +127,6 @@ Python & Django Developer | Backend Systems | API Architecture
 
 <a href="https://github.com/shaista020" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.facebook.com/" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
-</a>
-
-<a href="https://twitter.com/" target="_blank">
-<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x"/>
 </a>
 
 </div>
